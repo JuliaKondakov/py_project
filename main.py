@@ -1,3 +1,4 @@
-from funcs import foo
+from funcs import *
 
-plus = (1, 2, 3, 4, 5, 6, 7)
+plus = foo(1, 2)
+minus = minus (1, 2)
